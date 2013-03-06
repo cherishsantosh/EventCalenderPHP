@@ -1,0 +1,10 @@
+
+
+         #################################################################################
+                                   Applicatation feature
+         #################################################################################
+
+
+				1) Student-faculty meeting, book multiple faculty-student on some date with respective time.
+				2) In subscribption user enter his eid so that we can bring up only selected items  (he need not enter passwd for subscribe; it is  only for changing profile)
+				3) End of day corn job send a single mail to all user with respective his subscribe event.

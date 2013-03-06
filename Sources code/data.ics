@@ -1,0 +1,50 @@
+BEGIN:VCALENDAR
+PRODID:-//Google Inc//Google Calendar 70.9054//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:sakandroidmobile@gmail.com
+X-WR-TIMEZONE:Asia/Calcutta, 
+BEGIN:VEVENT
+DTSTART:20121011T053000Z
+DTEND:20121011T063000Z
+DTSTAMP: 20121008T111045Z
+UID:0e2663c7d2031ba1e586282138cb6f5d@google.com
+CREATED:20121011T053038Z
+DESCRIPTION:Education Park is an organization which is working to promote Education, Economy and Energy in rural areas of India. Education, Economy and Energy are the three pillars of social growth and development of all parameters is required for comprehensive growth of rural areas.
+LAST-MODIFIED:20121008T111023Z
+LOCATION: GG3031
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY: A talk on One Child - One Light: A Movement and its Social Impact
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121010T093000Z
+DTEND:20121010T110000Z
+DTSTAMP: 20121008T111045Z
+UID:dc8715251817e493207b9ce5ee73b3c2@google.com
+CREATED:20121010T093038Z
+DESCRIPTION:When a search query is submitted to Google, it is routed to a data coop where monitors flash result pages at blazing speeds. When a relevant result is observed by one of the pigeons in the cluster, it strikes a rubber-coated steel bar with its beak, which assigns the page a PigeonRank value of one. For each peck, the PigeonRank increases.
+LAST-MODIFIED:20121008T111023Z
+LOCATION: GG3031
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY: Google Technology
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20121009T040000Z
+DTEND:20121009T060000Z
+DTSTAMP: 20121008T111045Z
+UID:db454ddeb478b573205957c72a01b579@google.com
+CREATED:20121009T040038Z
+DESCRIPTION:Mobile technology is the technology used for cellular communication. Mobile code division multiple access (CDMA) technology has evolved rapidly over the past few years. Since the start of this millennium, a standard mobile device has gone from being no more than a simple two-way pager to being a mobile phone, GPS navigation device, an embedded web browser and instant messaging client, and a handheld game console. Many experts argue that the future of computer technology rests in mobile computing with wireless networking. 
+LAST-MODIFIED:20121008T111023Z
+LOCATION: GG3031
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY: On Mobile Technology
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

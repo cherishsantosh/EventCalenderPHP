@@ -1,0 +1,19 @@
+Install apache 2.2
+Install mysql server 5.0
+Install phpmyadmin
+Install php-pear
+Install php-mail
+
+1) Copy your project folder in locatation { /var/www/ (for linux)}
+
+2) Contact with your Web administrator/Database administrator, Create one database user.
+
+3)  Open following url :
+	- http://localhost/phpmyadmin/ 
+        - Login in database
+	- Ceate database name as "NewCal"
+        - Database folder contain "NewCal.sql" (data+ table structure)
+	- Import "NewCal.sql" using import option in GUI
+
+4) Go to "ProjectFolder/Include/Connect.php", Set your username("cal") and password("*cal"), and database name("NewCal").
+

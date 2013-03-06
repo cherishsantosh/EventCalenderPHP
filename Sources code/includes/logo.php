@@ -1,0 +1,1 @@
+<img src="images/cen-logo.jpg" width="200px">

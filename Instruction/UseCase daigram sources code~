@@ -1,0 +1,62 @@
+
+         #################################################################################
+                                   Use case digram
+         #################################################################################
+
+
+
+// Subscription Case Diagram code
+[Customer]>(Subscription)
+[Customer]>(Unsubscription)
+[Customer]>(Edit Subscription)
+[Customer]>(Registration)
+[Administrator]>(Approve)
+(Approve)>(Registration)
+
+
+// Posting Event Case Diagram code
+[User]>(Post Event)
+[User]>(Select Venue)
+[User]>(Select Date/Time)
+[User]>(Put Valid Information)
+[User]>(View Event)
+
+
+// User Approval Case Diagram code
+[Administrator]>(Approve Registration)
+[Administrator]>(Reject Registration)
+[Administrator]>(Get More Info)
+
+// Login Case Diagram code
+[User]-(Login)
+[User]-(Create Account)
+[User]-(Delete Account)
+[User]-(View Account)
+[Administrator]-(Delete User)
+(Delete User)>(Delete Account)
+(View Account)<(View my Account page)
+(View Account)>(View my reservation)
+
+// Manage user Case Diagram code
+[Administrator]-(Edit User Profile)
+[Administrator]-(Delete User)
+
+
+// Registration Case Diagram code
+[Administrator]-(Bulk Registration)
+(Bulk Registration)>(upload .Exl file)
+[Administrator]-(Nw Admin Registration)
+
+
+
+
+// Add Data Case Diagram code
+[Administrator]-(Venue)
+[Administrator]-(Faculty)
+[Administrator]-(Equipment)
+[Administrator]-(Event)
+[Administrator]-(Course)
+
+
+
+
